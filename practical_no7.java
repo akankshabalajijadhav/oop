@@ -54,9 +54,9 @@ public class oj {
 
     public static void main(String[] args) throws Exception {
 
-        User u1 = new User("ritesh");
-        User u2 = new User("sharyuu");
-        User u3 = new User("soha");
+        User u1 = new User("akanksha");
+        User u2 = new User("Arpita");
+        User u3 = new User("Sonali");
        
         u1.start();
         u2.start();
